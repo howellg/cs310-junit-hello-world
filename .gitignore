@@ -17,3 +17,5 @@ manifest.mf
 .externalNativeBuild
 .cxx
 local.properties
+/NetBeans/ cs310-junit-hello-world/nbproject/private/
+/NetBeans/cs310-junit/nbproject/private/
