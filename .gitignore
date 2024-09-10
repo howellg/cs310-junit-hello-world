@@ -19,3 +19,5 @@ manifest.mf
 local.properties
 /NetBeans/ cs310-junit-hello-world/nbproject/private/
 /NetBeans/cs310-junit/nbproject/private/
+/NetBeans/cs310-junit/build/
+/NetBeans/cs310-junit/dist/
